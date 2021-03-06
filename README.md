@@ -1,2 +1,3 @@
 # super-octo-waffle
-Node server experiment
+
+Little project to remove rust from my Node.JS skills
